@@ -1,0 +1,13 @@
+binding: user.agent=safari
+Compiling module com.test
+   Unification traversed 1035 fields and methods and 611 types. 7 are considered part of the current module and 18 had all of their fields and methods traversed.
+   Compiling 1 permutation
+      Compiling permutation 0...
+      Linking per-type JS with 7 new/changed types.
+      Source Maps Enabled
+   Compile of permutations succeeded
+   Compilation succeeded -- 1,673s
+Linking into C:\Users\ִלטענטי\Desktop\sdk\gwt-2.9.0\test\target\gwt\devmode\work\com.test\compile-2\war\test; Writing extras to C:\Users\ִלטענטי\Desktop\sdk\gwt-2.9.0\test\target\gwt\devmode\work\com.test\compile-2\extras\test
+   Link succeeded
+   Linking succeeded -- 0,244s
+2,313s total -- Compile completed

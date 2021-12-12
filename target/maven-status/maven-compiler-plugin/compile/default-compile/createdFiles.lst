@@ -1,0 +1,12 @@
+com\tz\SessionFactoryUtils.class
+com\tz\UserDao.class
+com\client\GreetingService.class
+com\client\test$1.class
+com\client\GreetingServiceAsync.class
+com\client\test.class
+com\server\GreetingServiceImpl.class
+com\tz\UserDaoImpl.class
+com\shared\FieldVerifier.class
+com\tz\User.class
+com\client\test$1MyHandler.class
+com\client\test$1MyHandler$1.class
