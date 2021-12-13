@@ -62,4 +62,13 @@ public class UserDaoImpl implements UserDao {
                     .executeUpdate();
         }
     }
+
+    @Override
+    public void deleteUser(User user) {
+        try (Session session = sessionFactoryUtils.getSession()) {
+            session.beginTransaction();
+            session.delete(user);
+            session.getTransaction().commit();
+        }
+    }
 }

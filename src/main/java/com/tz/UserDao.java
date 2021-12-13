@@ -8,4 +8,5 @@ public interface UserDao {
     List<User> findAll();
     void save(User user);
     void updateNameById(Long id, String newName);
+    void deleteUser(User user);
 }
